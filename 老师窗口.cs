@@ -10,7 +10,8 @@ using System.Windows.Forms;
 using System.Data;
 using System.Data.SqlClient;
 namespace 用户登录
-{
+{//some
+    //更改
     public partial class 老师窗口 : Form
     {
         String str;
